@@ -1,0 +1,88 @@
+{
+    "sneakers": [
+        {
+            "id": 0,
+            "name": "Nike G.T. Jump 2",
+            "price": 320,
+            "imgURL": "https://static.nike.com/a/images/t_default/8cfb8279-be0c-4701-94ad-a2befd9d2987/gt-jump-2-basketball-shoes-66bBTQ.png",
+            "counter": 0
+        },
+        {
+            "id": 1,
+            "name": "Nike Dunk Low",
+            "price": 160,
+            "imgURL": "https://static.nike.com/a/images/t_default/79709e27-52e9-406c-9438-57b0627db04c/nike-dunk-low-unlocked-by-you.png",
+            "counter": 0
+        },
+        {
+            "id": 2,
+            "name": "Nike Dunk Low",
+            "price": 100,
+            "imgURL": "https://static.nike.com/a/images/t_default/a3e7dead-1ad2-4c40-996d-93ebc9df0fca/dunk-low-retro-mens-shoes-87q0hf.png",
+            "counter": 0
+        },
+        {
+            "id": 3,
+            "name": "Nike SB Dunk Low",
+            "price": 150,
+            "imgURL": "https://static.nike.com/a/images/t_default/noweplh9baxooyadyhso/sb-dunk-low-pro-skate-shoe-Q8p8S6.png",
+            "counter": 0
+        },
+        {
+            "id": 4,
+            "name": "Air Jordan 1 Mid SE",
+            "price": 260,
+            "imgURL": "https://www.nike.ae/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dw99731430/nk/1cb/9/a/3/1/b/1cb9a31b_f105_4ac4_b47d_c401ff3477e9.png",
+            "counter": 0
+        },
+        {
+            "id": 5,
+            "name": "Nike Dunk Low",
+            "price": 99,
+            "imgURL": "https://static.nike.com/a/images/t_default/49994138-c049-4ce4-a670-c42efd06ade4/dunk-low-shoes-7CMvkH.png",
+            "counter": 0
+        },
+        {
+            "id": 6,
+            "name": "Nike Dunk Low",
+            "price": 110,
+            "imgURL": "https://static.nike.com/a/images/t_default/489eade7-34d8-40e4-a5d0-865c83b9133f/dunk-low-retro-shoes-wfrHM2.png",
+            "counter": 0
+        },
+        {
+            "id": 7,
+            "name": "Nike Air Max 90",
+            "price": 120,
+            "imgURL": "https://static.nike.com/a/images/t_default/3bff1898-6d52-4e9f-b7e2-569e333160a0/air-max-90-shoes-NKzt71.png",
+            "counter": 0
+        },
+        {
+            "id": 8,
+            "name": "Nike Air Max 90",
+            "price": 120,
+            "imgURL": "https://static.nike.com/a/images/t_default/aa5a276b-715d-4da7-bac2-159edaed11b6/air-max-90-shoes-mnCmVT.png",
+            "counter": 0
+        },
+        {
+            "id": 9,
+            "name": "Nike Tiempo Legend 9",
+            "price": 230,
+            "imgURL": "https://static.nike.com/a/images/t_default/3dd26b1c-7e37-4502-a9b6-24aadc2288f2/tiempo-legend-9-academy-mg-multi-ground-football-boot-8Vvl8G.png",
+            "counter": 0
+        },
+        {
+            "id": 10,
+            "name": "Nike Air Force 1 '07",
+            "price": 115,
+            "imgURL": "https://static.nike.com/a/images/t_default/f8dfa191-60b3-44c1-b730-b25e0a908c35/air-force-1-07-easyon-shoes-LKXPhZ.png",
+            "counter": 0
+        },
+        {
+            "id": 11,
+            "name": "Nike Blazer Mid '77",
+            "price": 85,
+            "imgURL": "https://static.nike.com/a/images/t_default/89628a1b-bea6-48cb-83f8-ee2966196b72/blazer-mid-77-big-kids-shoes-tDPQtX.png",
+            "counter": 0
+        }
+    ]
+}
