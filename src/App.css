@@ -377,7 +377,7 @@
   justify-content: center;
   align-items: center;
 }
-.empty-content .sad svg {
+.empty-content .sad img {
   width: 70px;
   height: 70px;
 }
@@ -757,5 +757,4 @@ body {
   .wrapper-container {
     max-width: 800px;
   }
-
 }

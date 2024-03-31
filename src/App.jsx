@@ -13,7 +13,7 @@ const App = () => {
                 <div className="wrapper">
                     <Header setProfileItems={setProfileItems} />
                     <Routes>
-                        <Route path='/react-sneakers/' element={<Home />} />
+                        <Route path='/' element={<Home />} />
                         <Route path='/profile' element={<Profile profileItems={profileItems} />} />
                         <Route path='/liked' element={<Liked />} />
                     </Routes>

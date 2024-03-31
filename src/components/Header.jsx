@@ -29,7 +29,7 @@ const Header = ({ setProfileItems }) => {
         <header className="header">
             <div className="header-container">
                 <div className="header-content">
-                    <Link to='/react-sneakers/' className="header-logo">
+                    <Link to='/' className="header-logo">
                         <img className='header-logo-img' src="https://images.fineartamerica.com/images/artworkimages/medium/1/j-cole-trill-art.jpg" alt="" />
                         <div className="header-logo-title">
                             <h2>NEFORWARD SNEAKERS</h2>
@@ -196,7 +196,7 @@ const Header = ({ setProfileItems }) => {
                                         </svg>
                                         <h3>Cart is Empty</h3>
                                         <p>Add at least one pair of sneakers to complete your order.</p>
-                                        <Link to='/react-sneakers/'>
+                                        <Link to='/'>
                                             <button>Get Back</button>
                                         </Link>
                                     </div>
